@@ -1,0 +1,20 @@
+{
+  "name": "fsi-js-graffiti",
+  "version": "1.0.0",
+  "description": "This is an activity for FSWD Lesson 1.11.1- The Document Object Model.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benji8817/FSI-JS-Graffiti.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benji8817/FSI-JS-Graffiti/issues"
+  },
+  "homepage": "https://github.com/Benji8817/FSI-JS-Graffiti#readme"
+}
